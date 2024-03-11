@@ -1,0 +1,86 @@
+Aspirin,Pain reliever,$10.99,https://en.wikipedia.org/wiki/Aspirin
+Ibuprofen,Anti-inflammatory,$8.99,https://en.wikipedia.org/wiki/Ibuprofen
+Paracetamol,Fever reducer,$7.49,https://en.wikipedia.org/wiki/Paracetamol
+Amoxicillin,Antibiotic,$12.99,https://en.wikipedia.org/wiki/Amoxicillin
+Omeprazole,Acid reflux medication,$9.99,https://en.wikipedia.org/wiki/Omeprazole
+Atorvastatin,Cholesterol-lowering medication,$15.99,https://en.wikipedia.org/wiki/Atorvastatin
+Lisinopril,Blood pressure medication,$14.49,https://en.wikipedia.org/wiki/Lisinopril
+Metformin,Diabetes medication,$11.99,https://en.wikipedia.org/wiki/Metformin
+Prednisone,Corticosteroid,$13.79,https://en.wikipedia.org/wiki/Prednisone
+Ciprofloxacin,Antibiotic,$16.49,https://en.wikipedia.org/wiki/Ciprofloxacin
+Gabapentin,Nerve pain medication,$17.99,https://en.wikipedia.org/wiki/Gabapentin
+Alprazolam,Anxiety medication,$18.49,https://en.wikipedia.org/wiki/Alprazolam
+Sertraline,Antidepressant,$19.99,https://en.wikipedia.org/wiki/Sertraline
+Amlodipine,Blood pressure medication,$16.99,https://en.wikipedia.org/wiki/Amlodipine
+Hydrochlorothiazide,Diuretic,$12.49,https://en.wikipedia.org/wiki/Hydrochlorothiazide
+Levothyroxine,Thyroid medication,$10.49,https://en.wikipedia.org/wiki/Levothyroxine
+Diazepam,Anxiety medication,$11.99,https://en.wikipedia.org/wiki/Diazepam
+Warfarin,Blood thinner,$14.99,https://en.wikipedia.org/wiki/Warfarin
+Fluoxetine,Antidepressant,$15.49,https://en.wikipedia.org/wiki/Fluoxetine
+Tamsulosin,Prostate medication,$13.99,https://en.wikipedia.org/wiki/Tamsulosin
+Pregabalin,Nerve pain medication,$16.99,https://en.wikipedia.org/wiki/Pregabalin
+Metoprolol,Beta blocker,$11.49,https://en.wikipedia.org/wiki/Metoprolol
+Budesonide,Asthma medication,$12.99,https://en.wikipedia.org/wiki/Budesonide
+Clindamycin,Antibiotic,$18.49,https://en.wikipedia.org/wiki/Clindamycin
+Cetirizine,Antihistamine,$9.99,https://en.wikipedia.org/wiki/Cetirizine
+Doxycycline,Antibiotic,$13.99,https://en.wikipedia.org/wiki/Doxycycline
+Bupropion,Smoking cessation aid,$15.99,https://en.wikipedia.org/wiki/Bupropion
+Montelukast,Asthma medication,$14.49,https://en.wikipedia.org/wiki/Montelukast
+Methylprednisolone,Corticosteroid,$17.49,https://en.wikipedia.org/wiki/Methylprednisolone
+Ranitidine,Heartburn medication,$8.99,https://en.wikipedia.org/wiki/Ranitidine
+Ashwagandha,For stress relief and vitality,$9.99,https://en.wikipedia.org/wiki/Ashwagandha
+Triphala,For digestion and detoxification,$7.49,https://en.wikipedia.org/wiki/Triphala
+Turmeric,For inflammation and immune support,$8.99,https://en.wikipedia.org/wiki/Turmeric
+Brahmi,For memory enhancement and cognitive function,$11.99,https://en.wikipedia.org/wiki/Bacopa_monnieri
+Neem,For skin health and detoxification,$6.99,https://en.wikipedia.org/wiki/Azadirachta_indica
+Tulsi,For respiratory health and stress relief,$10.49,https://en.wikipedia.org/wiki/Ocimum_tenuiflorum
+Guggul,For cholesterol management and weight loss,$9.49,https://en.wikipedia.org/wiki/Commiphora_mukul
+Shatavari,For hormonal balance and reproductive health,$8.99,https://en.wikipedia.org/wiki/Asparagus_racemosus
+Triphala Guggulu,For joint health and detoxification,$7.99,https://en.wikipedia.org/wiki/Triphala
+Arjuna,For heart health and blood pressure management,$10.99,https://en.wikipedia.org/wiki/Terminalia_arjuna
+Guduchi,For immune support and detoxification,$12.49,https://en.wikipedia.org/wiki/Tinospora_cordifolia
+Amalaki,For digestion and antioxidant support,$9.99,https://en.wikipedia.org/wiki/Emblica_officinalis
+Bhringraj,For hair growth and scalp health,$8.49,https://en.wikipedia.org/wiki/Eclipta_prostrata
+Haritaki,For digestive health and detoxification,$11.99,https://en.wikipedia.org/wiki/Terminalia_chebula
+Manjistha,For blood purification and skin health,$7.99,https://en.wikipedia.org/wiki/Rubia_cordifolia
+Shankhpushpi,For cognitive function and stress relief,$9.49,https://en.wikipedia.org/wiki/Convolvulus_pluricaulis
+Bilva,For digestive health and ulcers,$10.99,https://en.wikipedia.org/wiki/Aegle_marmelos
+Shilajit,For energy and stamina,$12.99,https://en.wikipedia.org/wiki/Shilajit
+Arnica montana,For bruises and muscle soreness,$9.99,https://en.wikipedia.org/wiki/Arnica_montana
+Belladonna,For fever and inflammation,$7.49,https://en.wikipedia.org/wiki/Belladonna
+Calendula officinalis,For wound healing,$8.99,https://en.wikipedia.org/wiki/Calendula_officinalis
+Chamomilla,For teething and irritability in children,$11.99,https://en.wikipedia.org/wiki/Chamomilla
+Ignatia amara,For emotional distress and grief,$6.99,https://en.wikipedia.org/wiki/Ignatia_amara
+Nux vomica,For digestive issues and hangover,$10.49,https://en.wikipedia.org/wiki/Nux_vomica
+Pulsatilla,For respiratory and menstrual issues,$9.49,https://en.wikipedia.org/wiki/Pulsatilla
+Rhus toxicodendron,For joint pain and stiffness,$8.99,https://en.wikipedia.org/wiki/Rhus_toxicodendron
+Thuja occidentalis,For skin conditions and warts,$7.99,https://en.wikipedia.org/wiki/Thuja_occidentalis
+Apis mellifica,For swelling and allergic reactions,$10.99,https://en.wikipedia.org/wiki/Apis_mellifica
+Calcarea carbonica,For fatigue and bone health,$12.49,https://en.wikipedia.org/wiki/Calcarea_carbonica
+Gelsemium sempervirens,For flu-like symptoms and anxiety,$9.99,https://en.wikipedia.org/wiki/Gelsemium_sempervirens
+Hypericum perforatum,For nerve injuries and pain,$8.49,https://en.wikipedia.org/wiki/Hypericum_perforatum
+Lycopodium clavatum,For digestive issues and low energy,$11.99,https://en.wikipedia.org/wiki/Lycopodium_clavatum
+Natrum muriaticum,For emotional imbalance and headaches,$7.99,https://en.wikipedia.org/wiki/Natrum_muriaticum
+Ruta graveolens,For tendonitis and eye strain,$9.49,https://en.wikipedia.org/wiki/Ruta_graveolens
+Sulfur,For skin conditions and itching,$10.99,https://en.wikipedia.org/wiki/Sulfur_(homeopathy)
+Sepia,For hormonal imbalance and mood swings,$12.99,https://en.wikipedia.org/wiki/Sepia_(homeopathy)
+Symphytum officinale,For bone injuries and fractures,$8.99,https://en.wikipedia.org/wiki/Symphytum_officinale
+Acetaminophen,Pain reliever,$5.99,https://en.wikipedia.org/wiki/Acetaminophen
+Lisinopril,Blood pressure medication,$7.49,https://en.wikipedia.org/wiki/Lisinopril
+Metformin,Diabetes medication,$6.99,https://en.wikipedia.org/wiki/Metformin
+Simvastatin,Cholesterol-lowering medication,$8.99,https://en.wikipedia.org/wiki/Simvastatin
+Amlodipine,Blood pressure medication,$6.49,https://en.wikipedia.org/wiki/Amlodipine
+Levothyroxine,Thyroid medication,$5.99,https://en.wikipedia.org/wiki/Levothyroxine
+Omeprazole,Acid reflux medication,$7.99,https://en.wikipedia.org/wiki/Omeprazole
+Atorvastatin,Cholesterol-lowering medication,$8.49,https://en.wikipedia.org/wiki/Atorvastatin
+Metoprolol,Beta blocker,$6.99,https://en.wikipedia.org/wiki/Metoprolol
+Losartan,Blood pressure medication,$7.49,https://en.wikipedia.org/wiki/Losartan
+Warfarin,Blood thinner,$7.99,https://en.wikipedia.org/wiki/Warfarin
+Gabapentin,Nerve pain medication,$8.99,https://en.wikipedia.org/wiki/Gabapentin
+Citalopram,Antidepressant,$7.49,https://en.wikipedia.org/wiki/Citalopram
+Furosemide,Diuretic,$6.99,https://en.wikipedia.org/wiki/Furosemide
+Metronidazole,Antibiotic,$9.49,https://en.wikipedia.org/wiki/Metronidazole
+Sildenafil,ED medication,$9.99,https://en.wikipedia.org/wiki/Sildenafil
+Albuterol,Asthma medication,$7.99,https://en.wikipedia.org/wiki/Albuterol
+Hydrochlorothiazide,Diuretic,$6.49,https://en.wikipedia.org/wiki/Hydrochlorothiazide
+Prednisone,Corticosteroid,$8.49,https://en.wikipedia.org/wiki/Prednisone

@@ -1,0 +1,20 @@
+body {
+	background-color: pink;
+}
+
+#navbar_list {
+	list-style: none;
+}
+
+.nav_bar_contents {
+	float: left;
+	padding: 1rem;
+}
+
+#search {
+	float: right;
+}
+
+thead {
+	padding: 1rem;
+}
