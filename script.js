@@ -1,4 +1,8 @@
 $(document).ready(function() {
+	setTimeout(() => {
+		$("#alert").hide();
+	}, 5000);
+	
 	function fill_med_data(med_type) {
 		let dat_url = "";
 		switch (med_type) {
